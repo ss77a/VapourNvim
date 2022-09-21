@@ -1,17 +1,17 @@
 <div align="center">
   <h1 align="center">VapourNvim</h1> 
-	<a href="https://github.com/hackorum/VapourNvim/#features">✨ Features</a>
+	<a href="https://github.com/ss77a/VapourNvim/#features">✨ Features</a>
   <span> • </span>
-	<a href="https://github.com/hackorum/VapourNvim/#installation">📦 Installation</a>
+	<a href="https://github.com/ss77a/VapourNvim/#installation">📦 Installation</a>
   <span> • </span>
-	<a href="https://github.com/hackorum/VapourNvim/wiki">📚 Wiki</a>
+	<a href="https://github.com/ss77a/VapourNvim/wiki">📚 Wiki</a>
   <span> • </span>
-	<a href="https://github.com/hackorum/VapourNvim/wiki/Screenshots">📷 Screenshots</a>
+	<a href="https://github.com/ss77a/VapourNvim/wiki/Screenshots">📷 Screenshots</a>
   <p></p>
 </div>
 
 
-![VapourNvim Image](https://raw.githubusercontent.com/VapourNvim/VapourNvim/main/assets/screenshot.png)
+![VapourNvim Image](https://raw.githubusercontent.com/ss77a/VapourNvim/main/assets/screenshot.png)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ This project is built to be:
 * **Functional**. The core of an ideal IDE is functionality. If there is anything you want to add, please consider contributing
 * **Minimal**. VapourNvim gives you what you need. Not too much, not too less.
 * **Fast**. VapourNvim loads as smooth as butter with an optimum amount of plugins and lazy loading.
-* **Easy to Configure**. If there's anything extra that you want to add or something you'd like to tweak, VapourNvim has an awesome [configuration system](https://github.com/hackorum/VapourNvim/wiki/User-Configuration) built in. 
+* **Easy to Configure**. If there's anything extra that you want to add or something you'd like to tweak, VapourNvim has an awesome [configuration system](https://github.com/ss77a/VapourNvim/wiki/User-Configuration) built in. 
 
 ## Features
 
@@ -50,19 +50,19 @@ This project is built to be:
 Make sure you have curl and bash installed before you run this script.
 
 ```bash
-curl -s https://raw.githubusercontent.com/VapourNvim/VapourNvim/main/install.sh | bash -s
+curl -s https://raw.githubusercontent.com/ss77a/VapourNvim/main/install.sh | bash -s
 ```
 
 ## Manual Installation
 ```
-git clone https://github.com/VapourNvim/VapourNvim ~/.config/nvim
+git clone https://github.com/ss77a/VapourNvim ~/.config/nvim
 nvim +PackerSync
 ```
 
 ## After Installation
-You almost certainly want to add some plugins of your own. You can do it by making your own [config file](https://github.com/hackorum/VapourNvim/wiki/User-Configuration)
-Please read the [wiki](https://github.com/VapourNvim/VapourNvim/wiki) for [Keybindings](https://github.com/hackorum/VapourNvim/wiki/Keybindings), [Language Servers](https://github.com/hackorum/VapourNvim/wiki/Language-Servers), [Plugins](https://github.com/hackorum/VapourNvim/wiki/Plugins) and [Screenshots](https://github.com/hackorum/VapourNvim/wiki/Screenshots).
-After making VapourNvim your own, consider posting some screenshots [here](https://github.com/hackorum/VapourNvim/issues/20).
+You almost certainly want to add some plugins of your own. You can do it by making your own [config file](https://github.com/ss77a/VapourNvim/wiki/User-Configuration)
+Please read the [wiki](https://github.com/ss77a/VapourNvim/wiki) for [Keybindings](https://github.com/ss77a/VapourNvim/wiki/Keybindings), [Language Servers](https://github.com/ss77a/VapourNvim/wiki/Language-Servers), [Plugins](https://github.com/ss77a/VapourNvim/wiki/Plugins) and [Screenshots](https://github.com/ss77a/VapourNvim/wiki/Screenshots).
+After making VapourNvim your own, consider posting some screenshots [here](https://github.com/ss77a/VapourNvim/issues/20).
 
 ## Contributing
 
