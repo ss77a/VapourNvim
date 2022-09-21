@@ -23,7 +23,7 @@ changedirname() {
 
 clonerepo() {
   echo "Cloning repo..."
-  git clone https://github.com/hackorum/VapourNvim ~/.config/nvim
+  git clone https://github.com/ss77a/VapourNvim ~/.config/nvim
   nvim +PackerSync
 }
 
