@@ -4,8 +4,8 @@
 --   \ V / (_| | |_) | (_) | |_| | |  | |\  |\ V /| | | | | | |
 --    \_/ \__,_| .__/ \___/ \__,_|_|  |_| \_| \_/ |_|_| |_| |_|
 --             |_|
--- Author: https://github.com/hackorum
--- Github: https://github.com/VapourNvim/VapourNvim
+-- Author: https://github.com/ss77a (Based on concept devised by VapourNvim)
+-- Github: https://github.com/ss77a/VapourNvim
 --
 -- Sane defaults and global helpers
 -- Load all Vapour packages first
